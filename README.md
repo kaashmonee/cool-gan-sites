@@ -2,9 +2,12 @@
 Just makin a list of cool GAN related news sites/articles I find
 
 ## List
+https://arxiv.org/abs/1406.2661
+This is the paper by Ian Goodfellow that started it all.
+
 https://blogs.nvidia.com/blog/2020/05/22/gamegan-research-pacman-anniversary/
 
-This article claims to have "Trained on 50,000 episodes of the game [Pacman], a powerful new AI model created by NVIDIA Research, called NVIDIA GameGAN."
+This article claims to have "Trained on 50,000 episodes of the game [Pacman], a powerful new AI model created by NVIDIA Research, called NVIDIA GameGAN." There is no underlying game engine; just a trained neural network trained on Pacman.
 
 https://thisxdoesnotexist.com/
 

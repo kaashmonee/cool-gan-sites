@@ -3,6 +3,7 @@ Just makin a list of cool GAN related news sites/articles I find
 
 ## List
 https://arxiv.org/abs/1406.2661
+
 This is the paper by Ian Goodfellow that started it all.
 
 https://blogs.nvidia.com/blog/2020/05/22/gamegan-research-pacman-anniversary/
